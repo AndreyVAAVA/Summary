@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.11.20)  21 MAR 2021 22:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.11.20)  21 MAR 2021 22:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -673,10 +673,10 @@ Package rerunfilecheck Info: File `Summary.out' has not changed.
 (rerunfilecheck)             Checksum: 5884AA4496389A53CED90FBBBFB6D7E2;555.
  ) 
 Here is how much of TeX's memory you used:
- 11700 strings out of 479485
- 164664 string characters out of 5875915
- 477491 words of memory out of 5000000
- 28417 multiletter control sequences out of 15000+600000
+ 11702 strings out of 479485
+ 164683 string characters out of 5875915
+ 477520 words of memory out of 5000000
+ 28418 multiletter control sequences out of 15000+600000
  550187 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,6n,72p,1295b,647s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -691,10 +691,10 @@ pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/te
 xlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2020
 /texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dis
 t/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on Summary.pdf (5 pages, 176399 bytes).
+Output written on Summary.pdf (5 pages, 178486 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 173 compressed objects within 2 object streams
- 63 named destinations out of 1000 (max. 500000)
+ 200 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
+ 64 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
